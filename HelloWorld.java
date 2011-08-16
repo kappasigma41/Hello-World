@@ -10,5 +10,8 @@ public class HelloWorld{
 	public static int add(int a, int b){
 		return a+b;
 	}
+	public static void imWorried(){
+		System.out.println("I'm worried this statement will be deleted".);
+	}
 }
 
